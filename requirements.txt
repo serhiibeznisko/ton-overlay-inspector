@@ -1,0 +1,8 @@
+pytoniq
+pyraptorq
+aiohttp
+python-dotenv
+typing_extensions
+asyncpg
+bitstring
+beautifulsoup4
